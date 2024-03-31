@@ -21,4 +21,9 @@
 ## Dataset 
 **Webis-CLS-10 Dataset:** The dataset contains pre-processed multilingual data from Amazon Product Reviews with a positive or negative sentiment. 
 
+## Contributors 
+### Author
+* Ethan Wong
+### Supervisor 
+* Faten M'hiri PhD
 
