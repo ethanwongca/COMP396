@@ -8,18 +8,18 @@
 **Google Colab**: Libraries and necessary dependencies were installed. This includes the sci-kit learn, numpy, and pandas library; 
 
 ## Libraries Used
-**Sklearn:** Used to use the Multinomial Naive-Bayes and Support Vector Machine Model, build the Tf-Idf Matrix, use proper train test splitting, and build accuracy reports <br/>
+**Sklearn (Version 1.2.2):** Used to use the Multinomial Naive-Bayes and Support Vector Machine Model, build the Tf-Idf Matrix, use proper train test splitting, and build accuracy reports <br/>
 
-**Pandas:** Used for building DataFrames <br/>
+**Pandas (Version 2.2.1):** Used for building DataFrames <br/>
 
-**NumPy:** Provides operations for the DataFrames <br/>
+**NumPy (Version 1.25.2):** Provides operations for the DataFrames <br/>
 
-**FairLearn:** Builds specified bias metrics in models <br/>
+**FairLearn (Version 0.10.0):** Builds specified bias metrics in models <br/>
 
-**spaCy:** Pre-process the French and English Data
+**spaCy (Version 3.7.4):** Pre-process the French and English Data
 
 ## Dataset 
-**Webis-CLS-10 Dataset:** The dataset contains pre-processed multilingual data from Amazon Product Reviews with a positive or negative sentiment. 
+**Webis-CLS-10 Dataset:** The dataset contains pre-processed multilingual data, (French, English, German, and Japanese) from Amazon Product Reviews with a positive or negative sentiment. 
 
 ## Contributors 
 ### Author
