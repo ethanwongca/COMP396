@@ -1,12 +1,18 @@
-# Analyzing Language Bias Between French and English in Conventional Multilingual Sentiment Analysis Models <img height=30 width=30 src="https://github.com/ethanwongca/COMP396/assets/87055387/8ab34a73-38e2-4cee-aecd-4a66c02d19b7">
+# Analyzing Language Bias Between French and English in Conventional Multilingual Sentiment Analysis Models <img height=40 width=40 src="https://github.com/ethanwongca/COMP396/assets/87055387/8ab34a73-38e2-4cee-aecd-4a66c02d19b7">
 
 ## Table of Contents 
 1. [Project Abstract](#project-abstract)
 2. [Development Environment](#development-environmnet)
-3. [Dataset](#dataset)
-4. [Methodology](#methodology)
-5. [Contributors](#contributors)
-6. [Citations](#citations)
+3. [Libraries](#libraries)
+4. [Dataset](#dataset)
+5. [Methodology](#methodology)
+   - [Pre-Processing](#pre-processing)
+   - [Feature Engineering](#feature-engineering)
+   - [Model Building](#model-building)
+   - [Bias Metrics](#bias-metrics)
+6. [Contributors](#contributors)
+7. [Citations](#citations)
+8. [Interactive Notebook](#interactive-notebook)
 
 
 ## Project Abstract
@@ -17,20 +23,16 @@
 
 **Programming Languages**: Python 3<br/>
 
-## Libraries Used
-**Sklearn (v1.2.2):** For machine learning models, Tf-Idf matrix creation, and accuracy reports.<br/>
-
-**Pandas (v2.2.1):** For data manipulation and analysis.<br/>
-
-**NumPy (v1.25.2):** Provides operations for the DataFrames <br/>
-
-**FairLearn (v0.10.0):** For bias metric evaluation <br/>
-
-**SpaCy (v3.7.4):** For data pre-processing in French and English.
+## Libraries
+- **Sklearn (v1.2.2):** For machine learning models, Tf-Idf matrix creation, and accuracy reports. [Sklearn Documentation](https://scikit-learn.org/stable/)
+- **Pandas (v2.2.1):** For data manipulation and analysis. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- **NumPy (v1.25.2):** Provides operations for the DataFrames. [NumPy Documentation](https://numpy.org/doc/)
+- **FairLearn (v0.10.0):** For bias metric evaluation. [FairLearn Documentation](https://fairlearn.org/)
+- **SpaCy (v3.7.4):** For data pre-processing in French and English. [SpaCy Documentation](https://spacy.io/)
 
 >[!NOTE]
 > Versions can be found in the **requirenments.txt**. <br/>
-> Versions used are the versions installed in Google Colab's IDE, with the exception of Fairlearn.
+> Versions used are installed in Google Colab's IDE, with the exception of Fairlearn.
 
 ## Dataset 
 Utilized the **Webis-CLS-10 Dataset**, featuring pre-processed multilingual Amazon product reviews with sentiment labels, encompassing French, English, German, and Japanese.
@@ -280,5 +282,8 @@ Pedregosa, F., Varoquaux, G., Gramfort , A., Michel, V., Thirion, B., Grisel, O.
 Bird, S., Diduk, M., Edgar, R., Horn, B., Lutz, R., Milan, V., Sameki, M., Wallach, H., & Walker, K. (2020). <br/>
     *Fairlearn: A toolkit for assessing and improving fairness in AI*. Microsoft.
 
+## Interactive Notebook
+For a hands-on experience with our project, access our interactive Jupyter Notebooks hosted on Google Colab:
+- [Multilingual Sentiment Analysis Notebook](https://colab.research.google.com/drive/1_O-T1aAsTBb8ryEzo50xbscrlzkP_wl8?usp=sharing)
 
-
+>Note: Ensure you have a Google account to interact with the notebook. Follow the instructions within the notebook for setup and execution guidance.
