@@ -1,4 +1,4 @@
-# Analyzing Language Bias Between French and English in Traditional Multilingual Sentiment Analysis Models <img height=25 width=25 src="https://github.com/ethanwongca/COMP396/assets/87055387/8ab34a73-38e2-4cee-aecd-4a66c02d19b7">
+# Analyzing Language Bias Between French and English in Conventional Multilingual Sentiment Analysis Models <img height=30 width=30 src="https://github.com/ethanwongca/COMP396/assets/87055387/8ab34a73-38e2-4cee-aecd-4a66c02d19b7">
  
 
 ## Project Abstract
