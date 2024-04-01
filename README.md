@@ -24,6 +24,24 @@
 ## Contributors 
 ### Author
 * Ethan Wong
+* Email: ethanwongca@gmail.com
 ### Supervisor 
 * Faten M'hiri PhD
+
+## Citations 
+**Dataset:** <br/>
+Prettenhofer, P., & Stein, B. (2010). Webis Cross-Lingual Sentiment Dataset 2010 (Webis-CLS-
+10) [Data set]. 48th Annual Meeting of the Association of Computational Linguistics (ACL 10).
+Zenodo. https://doi.org/10.5281/zenodo.3251672 <br/>
+**Sci-kit Learn:** <br/>
+ Pedregosa, F., Varoquaux, G., Gramfort , A., Michel, V., Thirion, B., Grisel, O., Blondel, M.,
+Muller, A., Nothman, J., Louppe, G., Prettenhofer, P., Weiss , R., Dubourg , V., Vanderplas,
+J., Passos, A., Cournapeau , D., Brucher , M., Perrot, M., & Duchesnay, E. (2011). Scikit-
+learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825–2830.
+https://doi.org/10.48550/arXiv.1201.049017 <br/>
+**Fairlearn:** <br/>
+Bird, S., Diduk, M., Edgar, R., Horn, B., Lutz, R., Milan, V., Sameki, M., Wallach, H., &
+Walker, K. (2020). Fairlearn: A toolkit for assessing and improving fairness in AI. Microsoft.
+
+
 
