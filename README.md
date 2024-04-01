@@ -456,7 +456,6 @@ def sample_data(df_en, df_fr, perc_en, perc_fr):
 ```
 ## Ingénierie des Fonctionnalités
 La matrice tf-idf a été construite en utilisant la bibliothèque Sklearn avec 1000 fonctionnalités.
-The tf-idf matrix was build using the Sklearn library using 1000 features. 
 ```python
 def preprocess_and_vectorize(df):
    """
