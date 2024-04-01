@@ -295,7 +295,7 @@ For a hands-on experience with our project, access our interactive Jupyter Noteb
 
 # Version Française
 
-# Analyse du biais linguistique entre le français et l'anglais dans les modèles conventionnels d'analyse de sentiment multilingue <img height=40 width=40 src="https://github.com/ethanwongca/COMP396/assets/87055387/8ab34a73-38e2-4cee-aecd-4a66c02d19b7">
+# Analyse du Biais Linguistique Entre le Français et l'Anglais Dans les Modèles Conventionnels d'Analyse de Sentiment Multilingue <img height=40 width=40 src="https://github.com/ethanwongca/COMP396/assets/87055387/8ab34a73-38e2-4cee-aecd-4a66c02d19b7">
 
 ## Table des Matières
 1. [Résumé du Projet](#résumé-du-projet)
