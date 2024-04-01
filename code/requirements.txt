@@ -1,0 +1,5 @@
+sklearn==1.2.2
+pandas==2.2.1
+numpy==1.25.2
+fairlearn==0.10.0
+spacy==3.7.4
