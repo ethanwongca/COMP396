@@ -4,6 +4,9 @@
 There are two versions of the README, this is the **English version**. <br/>
 The French version an be accessed by clicking **Version Française** on the table of contents. 
 
+## Paper 
+You can read the paper here: https://arxiv.org/abs/2405.06692 
+
 ## Table of Contents 
 1. [Project Abstract](#project-abstract)
 2. [Development Environment](#development-environmnet)
