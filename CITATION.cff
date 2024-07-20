@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wong"
+  given-names: "Ethan"
+  orcid: "https://orcid.org/0009-0001-4983-129X"
+- family-names: "M'hiri"
+  given-names: "Faten"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Analyzing Language Bias Between French and English in Conventional Multilingual Sentiment Analysis Models"
+version: 1.0.0
+doi: arXiv:2405.06692
+date-released: 2024-05-30
+url: "https://github.com/ethanwongca/COMP396"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Wong"
+    given-names: "Ethan Parker"
+    orcid: "https://orcid.org/0009-0001-4983-129X"
+  - family-names: "M'hiri"
+    given-names: "Faten"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "arXiv:2405.06692"
+  journal: "arXiv"
+  month: 5
+  title: "Analyzing Language Bias Between French and English in Conventional Multilingual Sentiment Analysis Models"
